@@ -16,3 +16,5 @@ const Sidebar: React.FC = () => {
 };
 
 export default Sidebar;
+
+Update for Firebase
