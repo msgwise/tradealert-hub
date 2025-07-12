@@ -22,3 +22,5 @@ const Navbar: React.FC<NavbarProps> = ({ setTheme }) => {
 };
 
 export default Navbar;
+
+Update for Firebase
