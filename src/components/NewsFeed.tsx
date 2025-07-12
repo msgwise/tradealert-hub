@@ -65,3 +65,5 @@ const NewsFeed: React.FC = () => {
 };
 
 export default NewsFeed;
+
+Update for Firebase
