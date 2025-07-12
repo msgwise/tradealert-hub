@@ -6,3 +6,5 @@ module.exports = {
   plugins: [],
   darkMode: 'class',
 };
+
+Update for Firebase
