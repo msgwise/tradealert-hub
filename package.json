@@ -40,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "firebase": "^10.12.2",
     "@types/howler": "^2.2.11",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
@@ -48,6 +49,7 @@
     "postcss": "^8.4.40",
     "react-scripts": "5.0.1",
     "typescript": "^5.5.4"
+  
   }
 }
 
