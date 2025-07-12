@@ -4,3 +4,5 @@ module.exports = {
     autoprefixer: {},
   },
 };
+
+Update for Firebase
